@@ -1,4 +1,5 @@
 # AWS Serverless Notes App
+
 ## Description
 
 The Serverless Notes App is a web application developed using the Angular framework and AWS serverless technologies. It allows users to create, read, update, and delete notes securely. The application leverages AWS Lambda, API Gateway, and Amazon S3 for serverless backend logic and data storage.
@@ -21,7 +22,7 @@ The Serverless Notes App is a web application developed using the Angular framew
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Unknownfanzh/AWS-Serverless-Notes-App`
+1. Clone the repository: `git clone https://github.com/Jjjing2023/AWS-Serverless-Notes-App.git`
 2. Navigate to the project directory: `cd your-repo`
 3. Install the dependencies: `npm install`
 
